@@ -1,0 +1,192 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0cd-r0-wYZ"; */
+"0cd-r0-wYZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0dx-W9-CRC"; */
+"0dx-W9-CRC.text" = "Label";
+
+/* Class = "UILabel"; text = "Логин"; ObjectID = "0iF-8z-uiR"; */
+"0iF-8z-uiR.text" = "Логин";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1VC-t3-hnt"; */
+"1VC-t3-hnt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "31S-rC-2hp"; */
+"31S-rC-2hp.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "3AI-yV-QEG"; */
+"3AI-yV-QEG.text" = "-";
+
+/* Class = "UILabel"; text = "Прибыль"; ObjectID = "40x-vR-RHW"; */
+"40x-vR-RHW.text" = "Прибыль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4FS-RU-3ZH"; */
+"4FS-RU-3ZH.text" = "Label";
+
+/* Class = "UILabel"; text = "Аналитика"; ObjectID = "4N1-p1-VLt"; */
+"4N1-p1-VLt.text" = "Аналитика";
+
+/* Class = "UILabel"; text = "Список клиентов пуст"; ObjectID = "53E-6F-naK"; */
+"53E-6F-naK.text" = "Список клиентов пуст";
+
+/* Class = "UIButton"; normalTitle = "ЛИЧНЫЙ КАБИНЕТ"; ObjectID = "5CM-vh-ng7"; */
+"5CM-vh-ng7.normalTitle" = "ЛИЧНЫЙ КАБИНЕТ";
+
+/* Class = "UISegmentedControl"; 5mE-NO-3eB.segmentTitles[0] = "На сегодня"; ObjectID = "5mE-NO-3eB"; */
+"5mE-NO-3eB.segmentTitles[0]" = "На сегодня";
+
+/* Class = "UISegmentedControl"; 5mE-NO-3eB.segmentTitles[1] = "На завтра"; ObjectID = "5mE-NO-3eB"; */
+"5mE-NO-3eB.segmentTitles[1]" = "На завтра";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6s2-XE-GO3"; */
+"6s2-XE-GO3.text" = "Label";
+
+/* Class = "UILabel"; text = "Новый сотрудник"; ObjectID = "8Lh-qZ-0mk"; */
+"8Lh-qZ-0mk.text" = "Новый сотрудник";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "97d-lG-kbm"; */
+"97d-lG-kbm.text" = "Label";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "9EW-v5-fmf"; */
+"9EW-v5-fmf.text" = "Имя";
+
+/* Class = "UILabel"; text = "Прибыль"; ObjectID = "ACC-Xk-VIH"; */
+"ACC-Xk-VIH.text" = "Прибыль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ATF-WJ-Sfj"; */
+"ATF-WJ-Sfj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BIM-cF-wNH"; */
+"BIM-cF-wNH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CWH-lW-nIp"; */
+"CWH-lW-nIp.text" = "Label";
+
+/* Class = "UILabel"; text = "Список сотрудников пуст"; ObjectID = "ETK-T3-xuc"; */
+"ETK-T3-xuc.text" = "Список сотрудников пуст";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hyg-yP-vL9"; */
+"Hyg-yP-vL9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JH0-80-isX"; */
+"JH0-80-isX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JdK-eZ-nf8"; */
+"JdK-eZ-nf8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K3y-3B-Zxg"; */
+"K3y-3B-Zxg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LOU-cm-9pd"; */
+"LOU-cm-9pd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LvZ-cm-wTG"; */
+"LvZ-cm-wTG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MZh-WF-3Ex"; */
+"MZh-WF-3Ex.text" = "Label";
+
+/* Class = "UILabel"; text = "Сотрудники"; ObjectID = "NxB-v5-WkX"; */
+"NxB-v5-WkX.text" = "Сотрудники";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nxc-km-7e3"; */
+"Nxc-km-7e3.text" = "Label";
+
+/* Class = "UILabel"; text = "Введите пароль"; ObjectID = "QGI-wP-MZG"; */
+"QGI-wP-MZG.text" = "Введите пароль";
+
+/* Class = "UIButton"; normalTitle = "Удалить"; ObjectID = "R7p-aT-aAd"; */
+"R7p-aT-aAd.normalTitle" = "Удалить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rdv-ON-QfI"; */
+"Rdv-ON-QfI.text" = "Label";
+
+/* Class = "UILabel"; text = "Добавить заемщика"; ObjectID = "USc-ZG-Epn"; */
+"USc-ZG-Epn.text" = "Добавить заемщика";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YIW-Ta-S9i"; */
+"YIW-Ta-S9i.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zwy-LF-IIq"; */
+"Zwy-LF-IIq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a6C-lD-Pz9"; */
+"a6C-lD-Pz9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eON-VS-o3L"; */
+"eON-VS-o3L.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eaL-WH-qz4"; */
+"eaL-WH-qz4.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "f3g-n4-4pR"; */
+"f3g-n4-4pR.text" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fWA-qq-uAB"; */
+"fWA-qq-uAB.text" = "Label";
+
+/* Class = "UILabel"; text = "Заемщики"; ObjectID = "gca-38-xFY"; */
+"gca-38-xFY.text" = "Заемщики";
+
+/* Class = "UILabel"; text = "Сотрудник"; ObjectID = "hc9-tU-mQl"; */
+"hc9-tU-mQl.text" = "Сотрудник";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hz9-cP-q8a"; */
+"hz9-cP-q8a.text" = "Label";
+
+/* Class = "UILabel"; text = "Добавить инвестора"; ObjectID = "i3P-eP-pYJ"; */
+"i3P-eP-pYJ.text" = "Добавить инвестора";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iIa-GS-8Sc"; */
+"iIa-GS-8Sc.text" = "Label";
+
+/* Class = "UILabel"; text = "Список задач пуст"; ObjectID = "iPy-0l-23b"; */
+"iPy-0l-23b.text" = "Список задач пуст";
+
+/* Class = "UILabel"; text = "2021"; ObjectID = "iTY-qs-c4H"; */
+"iTY-qs-c4H.text" = "2021";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mYT-Az-SP3"; */
+"mYT-Az-SP3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nQy-yR-vWn"; */
+"nQy-yR-vWn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nvU-xi-Bqh"; */
+"nvU-xi-Bqh.text" = "Label";
+
+/* Class = "UILabel"; text = "Клиенты"; ObjectID = "osM-wX-rey"; */
+"osM-wX-rey.text" = "Клиенты";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qrh-cU-88t"; */
+"qrh-cU-88t.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t5X-fp-HnP"; */
+"t5X-fp-HnP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tYB-vK-Gxi"; */
+"tYB-vK-Gxi.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tjj-iA-KQj"; */
+"tjj-iA-KQj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u5d-n2-CR1"; */
+"u5d-n2-CR1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uYc-Vp-wmN"; */
+"uYc-Vp-wmN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uor-t4-EeO"; */
+"uor-t4-EeO.text" = "Label";
+
+/* Class = "UILabel"; text = "Александр"; ObjectID = "vSu-sg-TJo"; */
+"vSu-sg-TJo.text" = "Александр";
+
+/* Class = "UILabel"; text = "Средняя ставка"; ObjectID = "vYC-Nh-YaB"; */
+"vYC-Nh-YaB.text" = "Средняя ставка";
+
+/* Class = "UITextField"; placeholder = "Комментарий"; ObjectID = "vry-P8-BmB"; */
+"vry-P8-BmB.placeholder" = "Комментарий";
+
+/* Class = "UIButton"; normalTitle = "+ Оформить заём"; ObjectID = "wJS-nk-1hX"; */
+"wJS-nk-1hX.normalTitle" = "+ Оформить заём";
